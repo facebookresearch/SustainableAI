@@ -1,0 +1,3 @@
+[submodule "CarbonExplorer"]
+	path = CarbonExplorer
+	url = https://github.com/facebookresearch/CarbonExplorer.git
