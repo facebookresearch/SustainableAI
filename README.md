@@ -72,20 +72,28 @@ Characterizing and analyzing carbon emissions is a complex process. While there 
 
 
 ## Research Publications
-- [Chasing Carbon: The Elusive Environmental Footprint of Computing](https://ieeexplore.ieee.org/document/9407142). Udit Gupta, Young Geun Kim, Sylvia Lee, Jordan Tse, Hsien-Hsin Lee, Gu-Yeon Wei, David Brooks, Carole-Jean Wu. In Proceedings of the IEEE International Symposium on High Performance Computer Architecture (HPCA), 2021. 
-**IEEE MICRO Top Picks**
+- [Chasing Carbon: The Elusive Environmental Footprint of Computing](https://ieeexplore.ieee.org/document/9407142). Udit Gupta, Young Geun Kim, Sylvia Lee, Jordan Tse, Hsien-Hsin Lee, Gu-Yeon Wei, David Brooks, Carole-Jean Wu. In Proceedings of the IEEE International Symposium on High Performance Computer Architecture (HPCA), 2021. [**IEEE MICRO Top Picks**]
+
 - [Sustainable AI: Environmental Implications, Challenges and Opportunities](https://arxiv.org/abs/2111.00364). Carole-Jean Wu, Ramya Raghavendra, Udit Gupta, Bilge Acun, Newsha Ardalani, Kiwan Maeng, Fiona Aga Behram, James Huang, Charles Bai, Michael Gschwind, Anurag Gupta, Myle Ott, Anastasia Melnikov, Salvatore Candido, David Brooks, Geeta Chauhan, Benjamin Lee, Hsien-Hsin S. Lee, Bugra Akyildiz, Maximilian Balandat, Joe Spisak, Ravi Jain, Mike Rabbat, Kim Hazelwood. In Proceedings of the Conference on Machine Learning and Systems (MLSys), 2022.
+
 - [Carbon Dependencies in Datacenter Design and Management](https://dl.acm.org/doi/10.1145/3630614.3630619). Bilge Acun, Benjamin C. Lee, Fiodar Kazhamiaka, Aditya Sundarrajan, Manoj Chakkaravarthy, Kiwan Maeng, David Brooks, Carole-Jean Wu. In Proceedings of the 1st Workshop on Sustainable Computer Systems Design and Implementation (HotCarbon), 2022.
-- [ACT: Designing Sustainable Computer Systems with an Architectural Carbon Modeling Tool](https://dl.acm.org/doi/10.1145/3470496.3527408). Udit Gupta, Mariam Elgamal, Gage Hills, Gu-Yeon Wei, Hsien-Hsin S. Lee, David Brooks, Carole-Jean Wu. In Proceedings of the ACM/IEEE International Symposium on Computer Architecture (ISCA), 2022.
-**IEEE MICRO Top Picks**
-- [Carbon Explorer: A Holistic Framework for Designing Carbon Aware Datacenters](https://dl.acm.org/doi/10.1145/3575693.3575754). Bilge Acun, Benjamin Lee, Fiodar Kazhamiaka, Kiwan Maeng, Udit Gupta, Manoj Chakkaravarthy, David Brooks, Carole-Jean Wu. In Proceedings of the International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2023.
-**IEEE MICRO Top Picks Honorable Mention**
+
+- [ACT: Designing Sustainable Computer Systems with an Architectural Carbon Modeling Tool](https://dl.acm.org/doi/10.1145/3470496.3527408). Udit Gupta, Mariam Elgamal, Gage Hills, Gu-Yeon Wei, Hsien-Hsin S. Lee, David Brooks, Carole-Jean Wu. In Proceedings of the ACM/IEEE International Symposium on Computer Architecture (ISCA), 2022. [**IEEE MICRO Top Picks**]
+
+- [Carbon Explorer: A Holistic Framework for Designing Carbon Aware Datacenters](https://dl.acm.org/doi/10.1145/3575693.3575754). Bilge Acun, Benjamin Lee, Fiodar Kazhamiaka, Kiwan Maeng, Udit Gupta, Manoj Chakkaravarthy, David Brooks, Carole-Jean Wu. In Proceedings of the International Conference on Architectural Support for Programming Languages and Operating Systems (ASPLOS), 2023. [**IEEE MICRO Top Picks Honorable Mention**]
+
 - [Towards Green, Accurate, and Efficient AI Models Through Multi-Objective Optimization](https://www.climatechange.ai/papers/iclr2023/55). Udit Gupta, Daniel Jiang, Maximilian Balandat, Carole-Jean Wu. In the International Conference on Machine Learning (ICML) Climate Change AI Workshop, 2023.
+
 - [Carbon-Efficient Design Optimization for Computer Systems](https://dl.acm.org/doi/10.1145/3604930.3605712). Mariam Elgamal, Doug Carmean, Elnaz Ansari, Okay Zed, Ramesh Peri, Srilatha Manne, Udit Gupta, Gu-Yeon Wei, David Brooks, Gage Hills, Carole-Jean Wu. In Proceedings of the 2nd Workshop on Sustainable Computer Systems Design and Implementation (HotCarbon), 2023.
+
 - Unlocking the Potential of Renewable Energy Through Curtailment Prediction. Bilge Acun, Brent Morgan, Carole-Jean Wu, Henry Richardson, Nat Steinsultz. In the Neural Information Processing Systems (NeurIPS) Climate Change AI Workshop, 2023.
+
 - [Beyond Efficiency: Scaling AI Sustainably](https://ieeexplore.ieee.org/document/10550120). Carole-Jean Wu, Bilge Acun, Ramya Raghavendra, Kim Hazelwood. In Proceedings of the IEEE MICRO Special Issue on the Past, Present, and Future of Warehouse-Scale Computing, 2024.
-- [Scaling AI Sustainably](https://www.nae.edu/327604/Winter-Bridge-on-Frontiers-of-Engineering). Carole-Jean Wu, Bilge Acun, Ramya Raghavendra, Kim Hazelwood. In the Winter Issue of %the Bridge* of the National Academy of Engineering.  
+
+- [Scaling AI Sustainably](https://www.nae.edu/327604/Winter-Bridge-on-Frontiers-of-Engineering). Carole-Jean Wu, Bilge Acun, Ramya Raghavendra, Kim Hazelwood. In the Winter Issue of *the Bridge* of the National Academy of Engineering.  
+
 - [CORDOBA: Carbon-Efficient Optimization Framework for Computing Systems](https://arxiv.org/abs/2305.01831). Mariam Elgamal, Doug Carmean, Elnaz Ansari, Okay Zed, Ramesh Peri, Srilatha Manne, Udit Gupta, Gu-Yeon Wei, David Brooks, Gage Hills, Carole-Jean Wu. In Proceedings of the IEEE International Symposium on High Performance Computer Architecture (HPCA), 2025.
+
 - CarbonNaaS
 
 
