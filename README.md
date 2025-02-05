@@ -23,13 +23,21 @@ For consumer electronics, embodied carbon footprint is a more significant than o
 
 ## Carbon Tools
 
+### CarbonNaaS 
 To enable carbon-guided AI model-hardware design space exploration, we design CarbonNaaS 
 
 ![Sustainable AI Landing Page 1](https://github.com/user-attachments/assets/914f4231-9ec8-4c6b-9386-efa3f5e5412b)
 
-To enable carbon-guided computer system design, we design ACT --- an architectural carbon modeling tool --- to ...
+### ACT
+https://github.com/facebookresearch/ACT
+
+To enable carbon-guided computer system design, we design ACT --- an architectural carbon modeling tool --- to enable sustainable computer system design. ACT comprises an analytical, architectural carbon footprint model and use-case dependent optimization metrics to estimate the carbon footprint of hardware --- embodied carbon. ACT estimates greenhouse gas (GHG) emissions from hardware manufacturing based on workload characteristics, hardware specifications, semiconductor fab characteristics, and environmental factors.
+
+ACT addresses a crucial gap in quantifying and enabling sustainability-driven hardware design space exploration for sustainability to be considered as a first-order design objective, alongside performance, power, and area.
 
 ![Sustainable AI Landing Page 2](https://github.com/user-attachments/assets/7f5d5314-4770-4c5a-9bf7-dd7b0b95c783)
+
+### Carbon Explorer
 
 To enable carbon-guided datacenter computing, we design Carbon Explorer --- 
 
