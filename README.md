@@ -86,7 +86,7 @@ Characterizing and analyzing carbon emissions is a complex process. While there 
 
 - [Carbon-Efficient Design Optimization for Computer Systems](https://dl.acm.org/doi/10.1145/3604930.3605712). Mariam Elgamal, Doug Carmean, Elnaz Ansari, Okay Zed, Ramesh Peri, Srilatha Manne, Udit Gupta, Gu-Yeon Wei, David Brooks, Gage Hills, Carole-Jean Wu. In Proceedings of the 2nd Workshop on Sustainable Computer Systems Design and Implementation (HotCarbon), 2023.
 
-- Unlocking the Potential of Renewable Energy Through Curtailment Prediction. Bilge Acun, Brent Morgan, Carole-Jean Wu, Henry Richardson, Nat Steinsultz. In the Neural Information Processing Systems (NeurIPS) Climate Change AI Workshop, 2023.
+- [Unlocking the Potential of Renewable Energy Through Curtailment Prediction](https://arxiv.org/abs/2405.18526). Bilge Acun, Brent Morgan, Carole-Jean Wu, Henry Richardson, Nat Steinsultz. In the Neural Information Processing Systems (NeurIPS) Climate Change AI Workshop, 2023.
 
 - [Beyond Efficiency: Scaling AI Sustainably](https://ieeexplore.ieee.org/document/10550120). Carole-Jean Wu, Bilge Acun, Ramya Raghavendra, Kim Hazelwood. In Proceedings of the IEEE MICRO Special Issue on the Past, Present, and Future of Warehouse-Scale Computing, 2024.
 
