@@ -92,9 +92,10 @@ Characterizing and analyzing carbon emissions is a complex process. While there 
 
 - [Scaling AI Sustainably](https://www.nae.edu/327604/Winter-Bridge-on-Frontiers-of-Engineering). Carole-Jean Wu, Bilge Acun, Ramya Raghavendra, Kim Hazelwood. In the Winter Issue of *the Bridge* of the National Academy of Engineering.  
 
-- [CORDOBA: Carbon-Efficient Optimization Framework for Computing Systems](https://arxiv.org/abs/2305.01831). Mariam Elgamal, Doug Carmean, Elnaz Ansari, Okay Zed, Ramesh Peri, Srilatha Manne, Udit Gupta, Gu-Yeon Wei, David Brooks, Gage Hills, Carole-Jean Wu. In Proceedings of the IEEE International Symposium on High Performance Computer Architecture (HPCA), 2025.
+- [CORDOBA: Carbon-Efficient Optimization Framework for Computing Systems](https://www.computer.org/csdl/proceedings-article/hpca/2025/064700b289/25KnWKW1lQY). Mariam Elgamal, Doug Carmean, Elnaz Ansari, Okay Zed, Ramesh Peri, Srilatha Manne, Udit Gupta, Gu-Yeon Wei, David Brooks, Gage Hills, Carole-Jean Wu. In Proceedings of the IEEE International Symposium on High Performance Computer Architecture (HPCA), 2025. [**Best Paper Award Honorable Mention**]
 
-- CarbonNaaS
+- CarbonNaaS: Carbon-Aware Neural and Accelerator Architecture Search. 
 
 
 ## Acknowledgement
+We would like to thank many colleagues at Meta and collaborators from the academic research community and from the computing industry. It is upon us — each and everyone of us — to contribute to a sustainable future for computing and the society.
