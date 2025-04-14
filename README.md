@@ -94,7 +94,7 @@ Characterizing and analyzing carbon emissions is a complex process. While there 
 
 - [CORDOBA: Carbon-Efficient Optimization Framework for Computing Systems](https://www.computer.org/csdl/proceedings-article/hpca/2025/064700b289/25KnWKW1lQY). Mariam Elgamal, Doug Carmean, Elnaz Ansari, Okay Zed, Ramesh Peri, Srilatha Manne, Udit Gupta, Gu-Yeon Wei, David Brooks, Gage Hills, Carole-Jean Wu. In Proceedings of the IEEE International Symposium on High Performance Computer Architecture (HPCA), 2025. [**Best Paper Award Honorable Mention**]
 
-- CarbonNaaS: Carbon-Aware Neural and Accelerator Architecture Search. 
+- CarbonNaaS: Carbon-Aware Neural and Accelerator Architecture Search. [**Coming Soon**]
 
 
 ## Acknowledgement
