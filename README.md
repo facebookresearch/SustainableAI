@@ -23,11 +23,13 @@ AI’s carbon impact goes beyond emissions associated with the electricity neede
 
 ## Carbon Tools
 
-### CarbonNaaS 
-To enable carbon-guided AI model-hardware design space exploration, we design CarbonNaaS 
+### CATransformers
+https://github.com/facebookresearch/CATransformers
 
-![Sustainable AI Landing Page 1](https://github.com/user-attachments/assets/914f4231-9ec8-4c6b-9386-efa3f5e5412b)
-
+To enable carbon-guided AI model-hardware design space exploration, we design CATransformers. CATransformers employs joint neural network and hardware architecture search and optimizes for the total carbon footprint. By incorporating both operational and embodied carbon metrics into early design space exploration of domain-specific
+hardware accelerators, CATransformers demonstrates that optimizing for carbon yields design choices distinct from those optimized solely for latency or energy efficiency.
+![CATransformers](https://github.com/user-attachments/assets/25368bac-0230-40db-a70b-2003ad4a4409)
+ 
 ### ACT
 https://github.com/facebookresearch/ACT
 
@@ -94,7 +96,7 @@ Characterizing and analyzing carbon emissions is a complex process. While there 
 
 - [CORDOBA: Carbon-Efficient Optimization Framework for Computing Systems](https://www.computer.org/csdl/proceedings-article/hpca/2025/064700b289/25KnWKW1lQY). Mariam Elgamal, Doug Carmean, Elnaz Ansari, Okay Zed, Ramesh Peri, Srilatha Manne, Udit Gupta, Gu-Yeon Wei, David Brooks, Gage Hills, Carole-Jean Wu. In Proceedings of the IEEE International Symposium on High Performance Computer Architecture (HPCA), 2025. [**Best Paper Award Honorable Mention**]
 
-- CarbonNaaS: Carbon-Aware Neural and Accelerator Architecture Search. [**Coming Soon**]
+- [CATransformers: Carbon Aware Transformers Through Joint Model-Hardware Optimization](https://arxiv.org/abs/2505.01386). Irene Wang, Newsha Ardalani, Mostafa Elhoushi, Daniel Jiang, Samuel Hsia, Ekin Sumbul, Divya Mahajan, Carole-Jean Wu, Bilge Acun. ArXiv preprint, 2025.
 
 
 ## Acknowledgement
