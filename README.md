@@ -97,7 +97,7 @@ Characterizing and analyzing carbon emissions is a complex process. While there 
 
 - [CORDOBA: Carbon-Efficient Optimization Framework for Computing Systems](https://www.computer.org/csdl/proceedings-article/hpca/2025/064700b289/25KnWKW1lQY). Mariam Elgamal, Doug Carmean, Elnaz Ansari, Okay Zed, Ramesh Peri, Srilatha Manne, Udit Gupta, Gu-Yeon Wei, David Brooks, Gage Hills, Carole-Jean Wu. In Proceedings of the IEEE International Symposium on High Performance Computer Architecture (HPCA), 2025. [**Best Paper Award Honorable Mention**]
 
-- [CATransformers: Carbon Aware Transformers Through Joint Model-Hardware Optimization](https://arxiv.org/abs/2505.01386). Irene Wang, Newsha Ardalani, Mostafa Elhoushi, Daniel Jiang, Samuel Hsia, Ekin Sumbul, Divya Mahajan, Carole-Jean Wu, Bilge Acun. ArXiv preprint, 2025.
+- [CATransformers: Carbon Aware Transformers Through Joint Model-Hardware Optimization](https://arxiv.org/abs/2505.01386). Irene Wang, Newsha Ardalani, Mostafa Elhoushi, Daniel Jiang, Samuel Hsia, Ekin Sumbul, Divya Mahajan, Carole-Jean Wu, Bilge Acun. In the conference on Neural Information Processing Systems (NeurIPS), 2025.
 
 
 ## Acknowledgement
